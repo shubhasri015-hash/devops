@@ -1,2 +1,5 @@
 This is my feature-branch
+<<<<<<< HEAD
 New changes 
+=======
+>>>>>>> master
